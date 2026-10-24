@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.project.course_enrollment.api.EnrollmentApiIntegrationTest
--------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.42 s -- in com.project.course_enrollment.api.EnrollmentApiIntegrationTest
